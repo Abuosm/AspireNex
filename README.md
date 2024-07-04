@@ -1,5 +1,5 @@
 
-<h3 align="center"> ❤️ Welcome Developers ❤️  </h3>
+
 
 ### <p align="center">  	😮 Introducing My New Game made in Python 	😮 </p>
 
