@@ -1,9 +1,3 @@
-![](https://img.shields.io/badge/Programming_Language-Python-blue.svg)
-![](https://img.shields.io/badge/Tool_Used-Tkinter-gold.svg)
-![](https://img.shields.io/badge/Game-Tic_Tac_Toe-yellow.svg)
-![](https://img.shields.io/badge/Mode-AI-orange.svg)
-![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
-![](https://img.shields.io/badge/Status-Complete-green.svg)
 
 <h3 align="center"> ❤️ Welcome Developers ❤️  </h3>
 
@@ -24,7 +18,7 @@
 <h3 align="center"><b>Show 💘 by Starring this Repo</b></h3>
 
 ---
-<h3 align="center">💡 <b>Important Links</b> 💡</h3>
+
 
 -
 <h2 align="center"><b>❤️ Thank You For Visiting 🙏, Have a Nice Day ❤️</b></h2>
