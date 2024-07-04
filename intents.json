@@ -1,0 +1,35 @@
+{"intents":[
+  {"tag":  "greetings",
+  "patterns":["hello","hey","hi","good day","Greetings","whats's up?","how its going?"],
+  "responses":["Hello!","hey!","What can I do for you?"]
+  },
+  {"tag":  "goodbyes",
+  "patterns":["cya","see you latter","I am leaving","Have a good day","bye","cao","see ya"],
+  "responses":["Sad to see you go :(","Talk to you later!","Goodbye!"]
+  },
+  {
+    "tag":  "age",
+  "patterns":["How old","How old is Abubakar","What is your age","How old are you","age?","your age?"],
+  "responses":["My owner abubakar is 21 year old!","21 years","21"]
+  },
+  {
+    "tag":  "name",
+  "patterns":["What is your name","What shoud I call you?","What yours name?","Who are you","can you tell me your name?","name"],
+  "responses":["My owner named as IRIS","I am IRIS","I am IRIS assistant of abubakar "]
+  },
+  {
+    "tag":  "shop",
+  "patterns":["Id like to buy something","What are your products?","What do you recommend?","What are you selling?","Products","Buying"],
+  "responses":["Skills Vedios set that includes python ,java and many more","I have 5 parts of AIML book series ","products like AI chat box"]
+  },
+  {
+    "tag":  "hours",
+  "patterns":["When are you guys open","What are your hours ?","hours of operation?","Timings"],
+  "responses":["24/7"]
+  },
+  {
+    "tag":  "stocks",
+  "patterns":["What stocks I do own","What are my shares?","What company I am investing in?","What I am doing in share markets"],
+  "responses":["You own the following share : ABBY , AABL, FB , NDVA and an ETF of the S&P 500 Index!"]
+  }
+  ]}
